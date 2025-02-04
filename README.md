@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rahim Ali</h1>
 <h3 align="center">A passionate frontend Engineer from Pakistan</h3>
 
-<img align="right" alt="coding" width="400" src="[[https://i.kym-cdn.com/photos/images/newsfeed/002/974/350/556.gif](https://i.kym-cdn.com/photos/images/newsfeed/002/974/350/556.gif)](https://media.tenor.com/kmovfHHdJBAAAAAM/what-is.gif)"> 
+<img align="right" alt="coding" width="400" src="![image](https://github.com/user-attachments/assets/aa2636bd-0616-4b03-b00f-070fbfacc99a)
+"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahim1976&label=Profile%20views&color=0e75b6&style=flat" alt="rahim1976" /> </p>
 
