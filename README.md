@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/karthi-the-hacker/karthi-the-hacker/main/pro.png">
+
 <h1 align="center">Hi 👋, I'm Rahim Ali</h1>
 <h3 align="center">A passionate frontend Engineer from Pakistan</h3>
 
