@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Rahim Ali</h1>
 <h3 align="center">A passionate frontend Engineer from Pakistan</h3>
 
-<img  align="center" width="400" src="https://media.tenor.com/zzntm2_9B3gAAAAC/hacker.gif">
+<img  align="center" width="800" src="https://media.tenor.com/zzntm2_9B3gAAAAC/hacker.gif">
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rahim1976&label=Profile%20views&color=0e75b6&style=flat" alt="rahim1976" /> </p>
 
