@@ -1,7 +1,8 @@
+<img src="https://raw.githubusercontent.com/karthi-the-hacker/karthi-the-hacker/main/pro.png">
 <h1 align="center">Hi 👋, I'm Rahim Ali</h1>
 <h3 align="center">A passionate frontend Engineer from Pakistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=karthi-the-hacker&label=Profile%20views&color=0e75b6&style=flat" alt="karthi-the-hacker" /> </p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahim1976&label=Profile%20views&color=0e75b6&style=flat" alt="rahim1976" /> </p>
 
