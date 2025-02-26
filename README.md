@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate with People Familier With **Python**
 
-- 👨‍💻 All of my projects are available at [www.rahim-ali.vercel.app](www.rahim-ali.vercel.app)
+- 👨‍💻 All of my projects are available at [rahim-ali.vercel.app](https://rahim-ali.vercel.app)
 
 - 💬 Ask me about **React,Next.Js,Typescript**
 
