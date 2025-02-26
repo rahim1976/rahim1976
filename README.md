@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **rahimali1967@icloud.com**
 
-- ⚡ Why Computer Science **Being a passionate gamer,**
+- ⚡ Why Computer Science? **I was a gamer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
